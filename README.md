@@ -14,6 +14,9 @@ https://github.com/gee1k/uPic
 <img width="756" alt="image" src="https://github.com/acmu/pictures/assets/35673748/f7ca81ec-121e-4cc6-8b3f-ad69fd0fd1b8">
 
 
+[新建 token 的链接](https://github.com/settings/tokens)
+
+
 
 ![25_12:33_UB3Hfw](https://raw.githubusercontent.com/acmu/pictures/master/uPic/2024-05/25_12:33_UB3Hfw.png)
 
